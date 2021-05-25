@@ -9,7 +9,7 @@ Check out this short demo gif of the app:
 ## Usage
 To run locally: 
 1. Create a ```liteBriteDB.users``` (database.collection) at https://cloud.mongodb.com
-2. Set the value of ```mongoURI``` in ```server/config.keys.js``` (line 2) to your connection string.
+2. Set the value of ```mongoURI``` in ```server/config/keys.js``` (line 2) to your connection string.
 
 
 4. Install server dependencies - in server/ run ```npm install```
