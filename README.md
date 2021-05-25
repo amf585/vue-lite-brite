@@ -12,9 +12,9 @@ To run locally:
 2. Set the value of ```mongoURI``` in ```server/config/keys.js``` (line 2) to your connection string.
 
 
-4. Install server dependencies - in server/ run ```npm install```
-5. Install client dependencies - in client/ run ```npm install```
+4. Install server dependencies - in ```server/``` run ```npm install```
+5. Install client dependencies - in ```client/``` run ```npm install```
 
 
-7. Start server - in server/ run ```npm run start``` (http://localhost:5000)
-8. Start client - in client/ run ```npm run serve``` (http://localhost:8080)
+7. Start server - in ```server/``` run ```npm run start``` (http://localhost:5000)
+8. Start client - in ```client/``` run ```npm run serve``` (http://localhost:8080)
