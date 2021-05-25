@@ -1,0 +1,16 @@
+// Variables
+$light: white;
+$primary: #006FFF;
+
+// Input styling
+.primary-btn {
+    border: 1px solid $light;
+    background-color: $primary;
+    color: $light;
+}
+.secondary-btn {
+    background: transparent;
+    color: $primary;
+}
+
+
