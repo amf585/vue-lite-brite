@@ -1,4 +1,4 @@
-# VueJS Lite Brite Game
+# Lite Brite Game (VueJS/Vuex/MEVN Stack)
 My first attempt at a MEVN (VENM? 😎) stack app
 
 I decided to make a small Lite Brite game/app where users can create an account and load/save/edit their artwork.
